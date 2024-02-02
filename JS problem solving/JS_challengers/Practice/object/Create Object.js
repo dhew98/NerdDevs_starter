@@ -17,3 +17,8 @@ function myFunction(a, b) {
   }
   return obj;
 }
+
+//extract the keys
+function myFunction(a) {
+  return Object.keys(a);
+}
