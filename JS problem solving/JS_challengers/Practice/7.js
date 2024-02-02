@@ -2,6 +2,5 @@
 
 function myFunction(a, b)
 {
-
-return (b*(a/100));
+    return (b*(a/100));
 }
