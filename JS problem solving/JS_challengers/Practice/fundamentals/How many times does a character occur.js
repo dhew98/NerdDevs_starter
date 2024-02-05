@@ -1,4 +1,4 @@
-//How many times does a character occur?
+//How many times does a character occur
 
 function myFunction(a, b) {
   let c = 0;
